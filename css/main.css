@@ -1,0 +1,23 @@
+*{
+    font-family: "RetroFont";
+    text-align: center;
+}
+
+@font-face{
+    font-family: 'RetroFont';
+    src: url(../fonts/RetroCoolRegular-Yz83j.otf);
+}
+
+h1{
+   
+    font-size: 1000.5%;
+    text-align: center;
+}
+
+a{
+    font-size: 300%;
+}
+img{
+    width: 100%;
+    height: auto;
+}
